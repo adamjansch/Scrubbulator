@@ -27,9 +27,9 @@ Usage
 Other controls
 --------------
 
-Maximum loop length number box: duration in milliseconds when mouse pointer is at the bottom of the waveform 
-Spacebar: play audio file normally from last clicked position
-L: latch looping on/off
-Ctrl: Zoom waveform in/out (with mouse up/down)
-Shift: lock horizontal axis
-Alt: lock vertical axis
+* Maximum loop length number box: duration in milliseconds when mouse pointer is at the bottom of the waveform 
+* Spacebar: play audio file normally from last clicked position
+* L: latch looping on/off
+* Ctrl: Zoom waveform in/out (with mouse up/down)
+* Shift: lock horizontal axis
+* Alt: lock vertical axis
