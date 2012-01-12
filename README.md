@@ -7,6 +7,7 @@ Playing Scrubbulator is simple: load in an audio file, then click on the wavefor
 
 Some additional functionality can be accessed over OSC: output pan and EQ are controllable through specific OSC parameter names. This was designed with [TouchOSC](http://hexler.net/software/touchosc) in mind.
 
+<div id="intro-end"></div>
 
 Installation
 ------------
