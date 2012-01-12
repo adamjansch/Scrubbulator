@@ -13,7 +13,7 @@ Installation
 ------------
 
 1. Move Scrubbulator files into a directory in your Max/MSP search path.
-2. Install Peter Elsea's [LObjects](http://artsites.ucsc.edu/EMS/music/research/Lobjects.readme.html) and CNMAT's [OpenSoundControl and OSC-route](http://cnmat.berkeley.edu/downloads) third party externals.
+2. Install Peter Elsea's <a href="http://artsites.ucsc.edu/EMS/music/research/Lobjects.readme.html" title="LObjects" target="_blank">LObjects</a> and CNMAT's <a href="http://cnmat.berkeley.edu/downloads" title="OpenSoundControl and OSC-route" target="_blank">OpenSoundControl and OSC-route</a> third party externals.
 3. Open Scrubbulator and start scrubbulating.
 
 
