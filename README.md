@@ -1,9 +1,9 @@
 Scrubbulator
 ============
 
-**Scrubbulator** is an audio instrument designed by Adam Jansch, built in Max/MSP, for laptop performance with the laptop ensemble <a href="http://www.helopg.co.uk" title="HELOpg" target="_blank">HELOpg</a>. Scrubbulator mimics the effect of 'scrubbing' – listening to an audio file whilst fast-forwarding or rewinding, but with some extra features thrown in.
+**Scrubbulator** is an audio instrument designed by Adam Jansch, built in Max/MSP, for laptop performance with the laptop ensemble <a href="http://www.helopg.co.uk" title="HELOpg" target="_blank">HELOpg</a>. Scrubbulator mimics the effect of 'scrubbing' – a technique used in reel-to-reel tape machines to precisely locate points in the tape for editing.
 
-Playing Scrubbulator is simple: load in an audio file, then click on the waveform to loop a short segment at the playhead. The vertical position of the mouse pointer in the waveform determines the duration of the looped section. Releasing the mouse button stops the loop, through there is also a latching function, enabled by pressing the 'L' key.
+Playing Scrubbulator is simple: load an audio file, and click on the waveform to loop a short segment at the playhead. The vertical position of the mouse pointer in the waveform determines the duration of the looped section. Releasing the mouse button stops the loop, or looping make be latched on by pressing the 'L' key.
 
 Some additional functionality can be accessed over OSC: output pan and EQ are controllable through specific OSC parameter names. This was designed with <a href="http://hexler.net/software/touchosc" title="TouchOSC" target="_blank">TouchOSC</a> in mind.
 
